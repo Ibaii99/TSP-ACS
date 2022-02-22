@@ -1,0 +1,184 @@
+Mean: 93699.05	 Median: 93061.56	 Mode: 100535.80	 Standard deviation: 4748.99
+Time: 3177.19 seconds
+###################
+Ant Colony 0
+Mean: 91883.88	 Median: 93318.15	 Mode: 93318.15	 Standard deviation: 2075.71
+-- Ant 0	 Mean: 100528.75	 Median: 100535.80	 Mode: 100535.80	 Standard deviation: 1575.51
+-- Ant 1	 Mean: 100406.51	 Median: 100535.80	 Mode: 100535.80	 Standard deviation: 1383.78
+-- Ant 2	 Mean: 93474.38	 Median: 93318.15	 Mode: 93318.15	 Standard deviation: 1490.78
+-- Ant 3	 Mean: 93610.49	 Median: 93318.15	 Mode: 93318.15	 Standard deviation: 1561.52
+-- Ant 4	 Mean: 93511.08	 Median: 93318.15	 Mode: 93318.15	 Standard deviation: 1091.59
+-- Ant 5	 Mean: 93394.73	 Median: 93318.15	 Mode: 93318.15	 Standard deviation: 578.65
+-- Ant 6	 Mean: 93318.15	 Median: 93318.15	 Mode: 93318.15	 Standard deviation: 0.00
+-- Ant 7	 Mean: 93363.24	 Median: 93318.15	 Mode: 93318.15	 Standard deviation: 1057.17
+-- Ant 8	 Mean: 93442.38	 Median: 93318.15	 Mode: 93318.15	 Standard deviation: 1031.48
+-- Ant 9	 Mean: 93370.48	 Median: 93318.15	 Mode: 93318.15	 Standard deviation: 370.96
+-- Ant 10	 Mean: 93428.40	 Median: 93318.15	 Mode: 93318.15	 Standard deviation: 563.89
+-- Ant 11	 Mean: 93371.85	 Median: 93318.15	 Mode: 93318.15	 Standard deviation: 534.29
+###################
+Ant Colony 1
+Mean: 91668.18	 Median: 92800.33	 Mode: 92800.33	 Standard deviation: 2516.71
+-- Ant 0	 Mean: 100321.11	 Median: 100535.80	 Mode: 100535.80	 Standard deviation: 1267.25
+-- Ant 1	 Mean: 100528.46	 Median: 100535.80	 Mode: 100535.80	 Standard deviation: 73.00
+-- Ant 2	 Mean: 100439.03	 Median: 100535.80	 Mode: 100535.80	 Standard deviation: 1197.90
+-- Ant 3	 Mean: 100458.45	 Median: 100535.80	 Mode: 100535.80	 Standard deviation: 769.67
+-- Ant 4	 Mean: 93158.09	 Median: 92800.33	 Mode: 92800.33	 Standard deviation: 1700.56
+-- Ant 5	 Mean: 93049.94	 Median: 92800.33	 Mode: 92800.33	 Standard deviation: 1515.94
+-- Ant 6	 Mean: 92810.40	 Median: 92800.33	 Mode: 92800.33	 Standard deviation: 293.48
+-- Ant 7	 Mean: 92880.43	 Median: 92800.33	 Mode: 92800.33	 Standard deviation: 1104.91
+-- Ant 8	 Mean: 92918.62	 Median: 92800.33	 Mode: 92800.33	 Standard deviation: 1386.90
+-- Ant 9	 Mean: 92845.52	 Median: 92800.33	 Mode: 92800.33	 Standard deviation: 449.65
+-- Ant 10	 Mean: 92840.16	 Median: 92800.33	 Mode: 92800.33	 Standard deviation: 471.26
+-- Ant 11	 Mean: 92736.71	 Median: 92800.33	 Mode: 92800.33	 Standard deviation: 633.05
+-- Ant 12	 Mean: 92822.40	 Median: 92800.33	 Mode: 92800.33	 Standard deviation: 507.15
+-- Ant 13	 Mean: 92847.11	 Median: 92800.33	 Mode: 92800.33	 Standard deviation: 465.46
+-- Ant 14	 Mean: 92852.85	 Median: 92800.33	 Mode: 92800.33	 Standard deviation: 810.74
+-- Ant 15	 Mean: 92761.16	 Median: 92800.33	 Mode: 92800.33	 Standard deviation: 389.80
+-- Ant 16	 Mean: 92750.13	 Median: 92800.33	 Mode: 92800.33	 Standard deviation: 499.51
+-- Ant 17	 Mean: 92863.16	 Median: 92800.33	 Mode: 92800.33	 Standard deviation: 481.03
+-- Ant 18	 Mean: 92800.33	 Median: 92800.33	 Mode: 92800.33	 Standard deviation: 0.00
+-- Ant 19	 Mean: 92785.22	 Median: 92800.33	 Mode: 92800.33	 Standard deviation: 150.38
+-- Ant 20	 Mean: 92825.51	 Median: 92800.33	 Mode: 92800.33	 Standard deviation: 250.51
+-- Ant 21	 Mean: 92878.04	 Median: 92800.33	 Mode: 92800.33	 Standard deviation: 577.35
+-- Ant 22	 Mean: 92800.33	 Median: 92800.33	 Mode: 92800.33	 Standard deviation: 0.00
+-- Ant 23	 Mean: 92749.22	 Median: 92800.33	 Mode: 92800.33	 Standard deviation: 563.00
+-- Ant 24	 Mean: 92844.94	 Median: 92800.33	 Mode: 92800.33	 Standard deviation: 443.84
+-- Ant 25	 Mean: 92800.33	 Median: 92800.33	 Mode: 92800.33	 Standard deviation: 0.00
+-- Ant 26	 Mean: 92800.33	 Median: 92800.33	 Mode: 92800.33	 Standard deviation: 0.00
+-- Ant 27	 Mean: 92800.33	 Median: 92800.33	 Mode: 92800.33	 Standard deviation: 0.00
+###################
+Ant Colony 2
+Mean: 97927.81	 Median: 98672.18	 Mode: 100535.80	 Standard deviation: 2807.96
+-- Ant 0	 Mean: 100543.19	 Median: 100535.80	 Mode: 100535.80	 Standard deviation: 73.49
+-- Ant 1	 Mean: 100590.65	 Median: 100535.80	 Mode: 100535.80	 Standard deviation: 965.36
+-- Ant 2	 Mean: 100461.91	 Median: 100535.80	 Mode: 100535.80	 Standard deviation: 589.59
+-- Ant 3	 Mean: 100535.80	 Median: 100535.80	 Mode: 100535.80	 Standard deviation: 0.00
+-- Ant 4	 Mean: 100486.00	 Median: 100535.80	 Mode: 100535.80	 Standard deviation: 798.36
+-- Ant 5	 Mean: 100547.02	 Median: 100535.80	 Mode: 100535.80	 Standard deviation: 190.96
+-- Ant 6	 Mean: 100560.98	 Median: 100535.80	 Mode: 100535.80	 Standard deviation: 250.51
+-- Ant 7	 Mean: 100605.95	 Median: 100535.80	 Mode: 100535.80	 Standard deviation: 587.47
+-- Ant 8	 Mean: 100519.71	 Median: 100535.80	 Mode: 100535.80	 Standard deviation: 747.00
+-- Ant 9	 Mean: 100507.18	 Median: 100535.80	 Mode: 100535.80	 Standard deviation: 547.36
+-- Ant 10	 Mean: 100477.34	 Median: 100535.80	 Mode: 100535.80	 Standard deviation: 828.54
+-- Ant 11	 Mean: 100464.27	 Median: 100535.80	 Mode: 100535.80	 Standard deviation: 514.99
+-- Ant 12	 Mean: 100544.91	 Median: 100535.80	 Mode: 100535.80	 Standard deviation: 500.88
+-- Ant 13	 Mean: 100485.71	 Median: 100535.80	 Mode: 100535.80	 Standard deviation: 362.75
+-- Ant 14	 Mean: 100535.80	 Median: 100535.80	 Mode: 100535.80	 Standard deviation: 0.00
+-- Ant 15	 Mean: 100535.80	 Median: 100535.80	 Mode: 100535.80	 Standard deviation: 0.00
+-- Ant 16	 Mean: 100535.80	 Median: 100535.80	 Mode: 100535.80	 Standard deviation: 0.00
+-- Ant 17	 Mean: 100535.80	 Median: 100535.80	 Mode: 100535.80	 Standard deviation: 0.00
+###################
+Ant Colony 3
+Mean: 89938.24	 Median: 93264.90	 Mode: 93318.15	 Standard deviation: 4623.34
+-- Ant 0	 Mean: 100394.45	 Median: 100535.80	 Mode: 100535.80	 Standard deviation: 1206.52
+-- Ant 1	 Mean: 100437.12	 Median: 100535.80	 Mode: 100535.80	 Standard deviation: 1345.58
+-- Ant 2	 Mean: 93571.18	 Median: 93318.15	 Mode: 93318.15	 Standard deviation: 2124.30
+-- Ant 3	 Mean: 93724.00	 Median: 93318.15	 Mode: 93318.15	 Standard deviation: 1662.32
+-- Ant 4	 Mean: 93777.13	 Median: 93318.15	 Mode: 93318.15	 Standard deviation: 2383.34
+-- Ant 5	 Mean: 93394.80	 Median: 93318.15	 Mode: 93318.15	 Standard deviation: 1644.33
+-- Ant 6	 Mean: 93437.58	 Median: 93318.15	 Mode: 93318.15	 Standard deviation: 836.13
+-- Ant 7	 Mean: 93380.10	 Median: 93318.15	 Mode: 93318.15	 Standard deviation: 616.38
+-- Ant 8	 Mean: 93412.04	 Median: 93318.15	 Mode: 93318.15	 Standard deviation: 934.16
+-- Ant 9	 Mean: 93322.23	 Median: 93318.15	 Mode: 93318.15	 Standard deviation: 40.53
+###################
+Ant Colony 4
+Mean: 97385.71	 Median: 100535.80	 Mode: 100535.80	 Standard deviation: 4625.51
+-- Ant 0	 Mean: 100552.95	 Median: 100535.80	 Mode: 100535.80	 Standard deviation: 170.63
+-- Ant 1	 Mean: 100363.02	 Median: 100535.80	 Mode: 100535.80	 Standard deviation: 1323.85
+-- Ant 2	 Mean: 100755.05	 Median: 100535.80	 Mode: 100535.80	 Standard deviation: 1653.04
+-- Ant 3	 Mean: 100340.98	 Median: 100535.80	 Mode: 100535.80	 Standard deviation: 1494.57
+-- Ant 4	 Mean: 100321.80	 Median: 100535.80	 Mode: 100535.80	 Standard deviation: 1569.89
+-- Ant 5	 Mean: 100548.07	 Median: 100535.80	 Mode: 100535.80	 Standard deviation: 87.69
+-- Ant 6	 Mean: 100488.93	 Median: 100535.80	 Mode: 100535.80	 Standard deviation: 817.04
+-- Ant 7	 Mean: 100502.75	 Median: 100535.80	 Mode: 100535.80	 Standard deviation: 248.71
+-- Ant 8	 Mean: 100567.45	 Median: 100535.80	 Mode: 100535.80	 Standard deviation: 251.66
+-- Ant 9	 Mean: 100511.85	 Median: 100535.80	 Mode: 100535.80	 Standard deviation: 311.92
+-- Ant 10	 Mean: 100535.80	 Median: 100535.80	 Mode: 100535.80	 Standard deviation: 0.00
+-- Ant 11	 Mean: 100565.28	 Median: 100535.80	 Mode: 100535.80	 Standard deviation: 293.30
+-- Ant 12	 Mean: 100516.62	 Median: 100535.80	 Mode: 100535.80	 Standard deviation: 190.80
+-- Ant 13	 Mean: 100535.80	 Median: 100535.80	 Mode: 100535.80	 Standard deviation: 0.00
+-- Ant 14	 Mean: 100535.80	 Median: 100535.80	 Mode: 100535.80	 Standard deviation: 0.00
+-- Ant 15	 Mean: 100535.80	 Median: 100535.80	 Mode: 100535.80	 Standard deviation: 0.00
+-- Ant 16	 Mean: 100535.80	 Median: 100535.80	 Mode: 100535.80	 Standard deviation: 0.00
+###################
+Ant Colony 5
+Mean: 93539.80	 Median: 92911.46	 Mode: 90261.89	 Standard deviation: 3621.60
+-- Ant 0	 Mean: 100364.56	 Median: 100535.80	 Mode: 100535.80	 Standard deviation: 894.93
+-- Ant 1	 Mean: 99281.06	 Median: 99176.26	 Mode: 99176.26	 Standard deviation: 1486.39
+-- Ant 2	 Mean: 99280.67	 Median: 99176.26	 Mode: 99176.26	 Standard deviation: 690.93
+-- Ant 3	 Mean: 99302.46	 Median: 99176.26	 Mode: 99176.26	 Standard deviation: 1003.17
+-- Ant 4	 Mean: 99165.24	 Median: 99176.26	 Mode: 99176.26	 Standard deviation: 418.90
+-- Ant 5	 Mean: 99191.96	 Median: 99176.26	 Mode: 99176.26	 Standard deviation: 482.97
+-- Ant 6	 Mean: 99156.00	 Median: 99176.26	 Mode: 99176.26	 Standard deviation: 201.56
+-- Ant 7	 Mean: 99049.70	 Median: 99176.26	 Mode: 99176.26	 Standard deviation: 878.21
+-- Ant 8	 Mean: 99261.58	 Median: 99176.26	 Mode: 99176.26	 Standard deviation: 940.64
+-- Ant 9	 Mean: 99137.64	 Median: 99176.26	 Mode: 99176.26	 Standard deviation: 1002.97
+-- Ant 10	 Mean: 99149.14	 Median: 99176.26	 Mode: 99176.26	 Standard deviation: 1085.65
+-- Ant 11	 Mean: 90341.73	 Median: 90261.89	 Mode: 90261.89	 Standard deviation: 574.38
+-- Ant 12	 Mean: 90518.64	 Median: 90261.89	 Mode: 90261.89	 Standard deviation: 1545.05
+###################
+Ant Colony 6
+Mean: 91302.31	 Median: 93318.15	 Mode: 93318.15	 Standard deviation: 2532.27
+-- Ant 0	 Mean: 100613.07	 Median: 100535.80	 Mode: 100535.80	 Standard deviation: 1558.52
+-- Ant 1	 Mean: 100412.37	 Median: 100535.80	 Mode: 100535.80	 Standard deviation: 1352.04
+-- Ant 2	 Mean: 93436.10	 Median: 93318.15	 Mode: 93318.15	 Standard deviation: 1033.63
+-- Ant 3	 Mean: 93443.43	 Median: 93318.15	 Mode: 93318.15	 Standard deviation: 907.39
+-- Ant 4	 Mean: 93409.50	 Median: 93318.15	 Mode: 93318.15	 Standard deviation: 650.07
+-- Ant 5	 Mean: 93267.04	 Median: 93318.15	 Mode: 93318.15	 Standard deviation: 586.11
+-- Ant 6	 Mean: 93309.49	 Median: 93318.15	 Mode: 93318.15	 Standard deviation: 529.35
+-- Ant 7	 Mean: 93389.24	 Median: 93318.15	 Mode: 93318.15	 Standard deviation: 786.00
+-- Ant 8	 Mean: 93392.57	 Median: 93318.15	 Mode: 93318.15	 Standard deviation: 693.09
+-- Ant 9	 Mean: 93325.54	 Median: 93318.15	 Mode: 93318.15	 Standard deviation: 73.49
+-- Ant 10	 Mean: 93318.15	 Median: 93318.15	 Mode: 93318.15	 Standard deviation: 0.00
+-- Ant 11	 Mean: 93211.58	 Median: 93318.15	 Mode: 93318.15	 Standard deviation: 756.66
+-- Ant 12	 Mean: 93318.15	 Median: 93318.15	 Mode: 93318.15	 Standard deviation: 0.00
+-- Ant 13	 Mean: 93318.15	 Median: 93318.15	 Mode: 93318.15	 Standard deviation: 0.00
+-- Ant 14	 Mean: 93318.15	 Median: 93318.15	 Mode: 93318.15	 Standard deviation: 0.00
+-- Ant 15	 Mean: 93318.15	 Median: 93318.15	 Mode: 93318.15	 Standard deviation: 0.00
+###################
+Ant Colony 7
+Mean: 90431.20	 Median: 88882.70	 Mode: 88882.70	 Standard deviation: 3465.38
+-- Ant 0	 Mean: 100232.04	 Median: 100535.80	 Mode: 100535.80	 Standard deviation: 1805.36
+-- Ant 1	 Mean: 100434.95	 Median: 100535.80	 Mode: 100535.80	 Standard deviation: 595.17
+-- Ant 2	 Mean: 100621.03	 Median: 100535.80	 Mode: 100535.80	 Standard deviation: 668.69
+-- Ant 3	 Mean: 88955.90	 Median: 88882.70	 Mode: 88882.70	 Standard deviation: 542.36
+-- Ant 4	 Mean: 89044.90	 Median: 88882.70	 Mode: 88882.70	 Standard deviation: 1613.92
+-- Ant 5	 Mean: 88966.23	 Median: 88882.70	 Mode: 88882.70	 Standard deviation: 585.86
+-- Ant 6	 Mean: 89189.55	 Median: 88882.70	 Mode: 88882.70	 Standard deviation: 1516.59
+-- Ant 7	 Mean: 88890.08	 Median: 88882.70	 Mode: 88882.70	 Standard deviation: 73.49
+###################
+Ant Colony 8
+Mean: 97971.66	 Median: 100535.80	 Mode: 100535.80	 Standard deviation: 3902.17
+-- Ant 0	 Mean: 100581.00	 Median: 100535.80	 Mode: 100535.80	 Standard deviation: 1934.80
+-- Ant 1	 Mean: 100702.08	 Median: 100535.80	 Mode: 100535.80	 Standard deviation: 1228.93
+-- Ant 2	 Mean: 100648.80	 Median: 100535.80	 Mode: 100535.80	 Standard deviation: 803.74
+-- Ant 3	 Mean: 100570.39	 Median: 100535.80	 Mode: 100535.80	 Standard deviation: 344.13
+-- Ant 4	 Mean: 100559.41	 Median: 100535.80	 Mode: 100535.80	 Standard deviation: 335.44
+-- Ant 5	 Mean: 100459.56	 Median: 100535.80	 Mode: 100535.80	 Standard deviation: 758.61
+-- Ant 6	 Mean: 100459.45	 Median: 100535.80	 Mode: 100535.80	 Standard deviation: 759.63
+-- Ant 7	 Mean: 100459.45	 Median: 100535.80	 Mode: 100535.80	 Standard deviation: 759.63
+-- Ant 8	 Mean: 100535.80	 Median: 100535.80	 Mode: 100535.80	 Standard deviation: 0.00
+-- Ant 9	 Mean: 100511.03	 Median: 100535.80	 Mode: 100535.80	 Standard deviation: 175.47
+-- Ant 10	 Mean: 100543.19	 Median: 100535.80	 Mode: 100535.80	 Standard deviation: 73.49
+-- Ant 11	 Mean: 100555.47	 Median: 100535.80	 Mode: 100535.80	 Standard deviation: 154.46
+-- Ant 12	 Mean: 100535.80	 Median: 100535.80	 Mode: 100535.80	 Standard deviation: 0.00
+-- Ant 13	 Mean: 100433.04	 Median: 100535.80	 Mode: 100535.80	 Standard deviation: 1022.42
+-- Ant 14	 Mean: 100535.80	 Median: 100535.80	 Mode: 100535.80	 Standard deviation: 0.00
+-- Ant 15	 Mean: 100535.80	 Median: 100535.80	 Mode: 100535.80	 Standard deviation: 0.00
+-- Ant 16	 Mean: 100535.80	 Median: 100535.80	 Mode: 100535.80	 Standard deviation: 0.00
+-- Ant 17	 Mean: 100459.45	 Median: 100535.80	 Mode: 100535.80	 Standard deviation: 759.63
+-- Ant 18	 Mean: 100535.80	 Median: 100535.80	 Mode: 100535.80	 Standard deviation: 0.00
+-- Ant 19	 Mean: 100535.80	 Median: 100535.80	 Mode: 100535.80	 Standard deviation: 0.00
+-- Ant 20	 Mean: 100535.80	 Median: 100535.80	 Mode: 100535.80	 Standard deviation: 0.00
+-- Ant 21	 Mean: 100535.80	 Median: 100535.80	 Mode: 100535.80	 Standard deviation: 0.00
+###################
+Ant Colony 9
+Mean: 87452.36	 Median: 88882.70	 Mode: 88882.70	 Standard deviation: 2078.98
+-- Ant 0	 Mean: 100457.40	 Median: 100535.80	 Mode: 100535.80	 Standard deviation: 1209.06
+-- Ant 1	 Mean: 100218.94	 Median: 100535.80	 Mode: 100535.80	 Standard deviation: 2117.70
+-- Ant 2	 Mean: 93226.35	 Median: 93318.15	 Mode: 93318.15	 Standard deviation: 1077.88
+-- Ant 3	 Mean: 88853.37	 Median: 88882.70	 Mode: 88882.70	 Standard deviation: 525.31
+-- Ant 4	 Mean: 89151.24	 Median: 88882.70	 Mode: 88882.70	 Standard deviation: 1378.78
+-- Ant 5	 Mean: 89103.13	 Median: 88882.70	 Mode: 88882.70	 Standard deviation: 1156.88
+-- Ant 6	 Mean: 89012.50	 Median: 88882.70	 Mode: 88882.70	 Standard deviation: 908.63
+-- Ant 7	 Mean: 89026.37	 Median: 88882.70	 Mode: 88882.70	 Standard deviation: 772.45
