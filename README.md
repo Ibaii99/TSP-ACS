@@ -6,7 +6,7 @@ All the code is in the [notebook](TSP.ipynb) and has the necessary documentation
 
 ```
  @misc{Ibai2022,
-  author = {Ibai Guillén},
+  author = {Ibai Guillen-Pacho},
   title = {Travel Salesman Problem with Ant Colony System},
   year = {2022},
   publisher = {GitHub},
