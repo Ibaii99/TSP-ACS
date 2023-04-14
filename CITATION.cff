@@ -1,0 +1,9 @@
+ @misc{Ibai2022,
+  author = {Ibai Guillen-Pacho},
+  title = {Travel Salesman Problem with Ant Colony System},
+  year = {2022},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  url= {https://github.com/Ibaii99/TSP-ACS},
+  howpublished = {\url{https://github.com/Ibaii99/TSP-ACS}}
+}
