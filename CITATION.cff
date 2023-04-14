@@ -1,9 +1,10 @@
- @misc{Ibai2022,
-  author = {Ibai Guillen-Pacho},
-  title = {Travel Salesman Problem with Ant Colony System},
-  year = {2022},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  url= {https://github.com/Ibaii99/TSP-ACS},
-  howpublished = {\url{https://github.com/Ibaii99/TSP-ACS}}
-}
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Guillen-Pacho
+    given-names: Ibai
+    orcid: https://orcid.org/0000-0001-7801-8815
+title: "Travel Salesman Problem with Ant Colony Systems"
+version: 1.0.0
+url: https://github.com/Ibaii99/TSP-ACS
+date-released: 2022-03-17
